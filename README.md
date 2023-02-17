@@ -6,6 +6,8 @@ A guide to install Stm32duino bootloader and getting started with Arduino
 http://dan.drown.org/stm32duino/package_STM32duino_index.json
 ```
 
+  Backup: [tools_win-2022.9.26.zip](tools_win-2022.9.26.zip) , [STM32F1-2022.9.26.zip](STM32F1-2022.9.26.zip)
+
 2) Install STM32F1xx from Board Manager.
 
 2) Download STLink Utilty:
