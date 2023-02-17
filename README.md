@@ -27,6 +27,6 @@ http://dan.drown.org/stm32duino/package_STM32duino_index.json
 6) In Arduino IDE set:
 Board :     STM32F108C6/fake STM32F108C8
 CPU Speed:  72Mhz
-Com
+Port:       COM1 (maple)                --> Deffers by your pc setup
 
 
