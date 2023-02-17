@@ -1,4 +1,4 @@
-# STM32-blue-bill-ardoino-install-guide
+# STM32 Blue Pill ardoino install guide
 A guide to install Stm32duino bootloader and getting started with Arduino 
 
 1) Add board manager url to Arduino : 
